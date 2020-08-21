@@ -1,5 +1,6 @@
 VERY NEW
 
+GOAL: develop an interactive website to teach others about what I have learned so far about delivering as a software engineer in performance-based environments.
 
 # SWELearningSite
 
